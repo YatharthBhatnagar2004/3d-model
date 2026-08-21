@@ -1,0 +1,11 @@
+# Simple materials
+newmtl BodyPaint
+Kd 0.16 0.16 0.18
+newmtl Tire
+Kd 0.03 0.03 0.03
+newmtl Glass
+Kd 0.08 0.12 0.16
+newmtl Light
+Kd 0.85 0.85 0.55
+newmtl TailLight
+Kd 0.65 0.03 0.03

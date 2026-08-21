@@ -1,0 +1,10 @@
+# Retro-modern unbranded hatchback
+# Clay / resin-style material
+
+newmtl WhiteClay
+Ka 0.72 0.72 0.72
+Kd 0.82 0.82 0.82
+Ks 0.18 0.18 0.18
+Ns 45.0
+d 1.0
+illum 2
